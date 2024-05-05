@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tweetvarshitha",
+  "private_key_id": "2302a9554612c5e753a2b9a711a11f43ab17cabf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrZUbNdYfKBqSD\nroPPsyGJosg0VVuVTvrYxL+0br67Mf82LUtvMLXncglLL+v/GSS3N0TQvH01/1GX\n5s2UPkJuQCIo8Iv3Jo95JWpQdf1mWxj6zoakG1/wQ3jKjbiLfe597Wmiw6Dlq/Iw\nECKhSQYraBbMODJcw6+g+IMeEAKYRRM1yAT4oTcjWRDP2q6kRs+x6AX7lFKxd5Ir\n7Wg4zyyAs0SISrkmhXKTOaNyz2O5C2IPHvnUyarDQWgqTtIkbjMPLlXaJtoAMo6Z\nTNiE0blw2LW+lJ8cOOJD1wCUNw6qKPC7R6nMQ0yjrxtMm6qBnhzKoxYDkp3tq1zO\nR02OSqG1AgMBAAECggEAG52gWFdxDxid5ke2nj8XDsWnK2N7c6W7njSpTMmxOpk2\nLUUEDADVtlp16+LnS/2BoHGryVQteodOXsLF6fZUHs5/kogbjTFt2Y+xPxCbySOx\ndSvUntl4Tk6Yxk4qZ3Nde3XG2P5bTNY1GhBnfAQ3lcPaNIJzfuXaxP11puDegikP\ndopfMP9ZX4mmGPpSxDWYZGpsXaoiOBnFE+xWgqAovYrgjYd4VR2lwUOsY2WF67w2\nKVvb+KC7wGw8PfyTVL7ZMbFpnY/AIg7XiXFIJLZrIVGhCk7T3M1Dj3l6T92g4qAF\nYZunwgU9/pY+GcG1wXkHUgOLc3kMKLu8Rpve90kSSwKBgQDcSKP5MHRI1YwFg+4o\ny7BeH94/jqFM8fDkbYypUtkB+4VsoMqqjtYTPmclruxBg/zKrWHMsfJ/g9qxRD0F\nOtX+i1Ew0cvS5KvfDZw2bbkoLFflrZuu92crXuXeTZydqaXC4CAcyR6ZjGPxkNn1\nYiZPjZEtnES6Gxu4uYuxBqYYywKBgQDHL20+bg+o7wUqKu4qXLTUmu2Mezd3Aijp\nj1wLR067KiRAswx3jZBX//J9NLT0PDSk5Vg+CL/cleor1Qr32ii/LNngXQRzAhhg\nC0nNTfUp3O2oXnVEX/6kH75ozdwQC7ozI1a+g22ftl/KLWpF1BBGSSJoC6bGmik2\nLTDpgvNffwKBgH3S2CZr8N/xakt0MkMHJbR9y3rOQ4Ap6gjwMho9gkrJmkqUBW8q\nq0jOqigyJCy/8VLreiNruTHw5KfAbIJiOv1sInIaQ6wwhaOgqIvGXK5/ta0xXu2v\nzzRMvkweVMkRr+cCEhWfI2VddXDz5ittZqimGjjNO8x503nOMeZp/9HFAoGBAK74\nqHxo7nS10tGh+KlZ2rfQiNAZBTYTvaC+AFsf/rdHY6U6I795qczD113JSRQrNwuL\nNCL6SKAbSSPL9+CV0aluWs5Op7PnqUXlZKVmz/BAVLzMjTLNKME/6WHjRGcMBjsZ\n1f9xMIFWEXtmva4thUZYxFKluZFIpt8if48BK409AoGBALIiHZHNdAVNNgOmsDaP\n1NFliKIOB/5fJIAqPuLenSsI4nuwEK0btEFlIDpYt58HevqHIWd4Cc6fS5uUlROt\nxGEAIAHJqQ33RhG78GNYXQrH8c9gl2fzRyW8MlS163bda9xDgPYbkQKNtYpx1IKB\nJkXxqyzpSo1s32ssmNsoCYhu\n-----END PRIVATE KEY-----\n",
+  "client_email": "twittervarshitha@tweetvarshitha.iam.gserviceaccount.com",
+  "client_id": "107548103184960403873",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twittervarshitha%40tweetvarshitha.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
